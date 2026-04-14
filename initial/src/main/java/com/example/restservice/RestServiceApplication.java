@@ -7,7 +7,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class RestServiceApplication {
 
 	public static void main(String[] args) {
-		int multiplication = 5 * 5;
+		int var2 = 4;
 		SpringApplication.run(RestServiceApplication.class, args);
 	}
 
